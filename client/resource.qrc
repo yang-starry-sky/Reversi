@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file alias="black">resource/black.png</file>
+        <file alias="white">resource/white.png</file>
+        <file alias="board">resource/棋盘.jpg</file>
+        <file alias="available">resource/available.png</file>
+    </qresource>
+</RCC>
